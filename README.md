@@ -1,2 +1,2 @@
 # movieinfoapp
-Movie lookup
+Movie lookup that utilizes an api key to link to an online database.
